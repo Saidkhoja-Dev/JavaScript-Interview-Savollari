@@ -1,4 +1,4 @@
-# javascript-interview-savollari
+# Javascript Interview Savollari
 
 JavaScript bo'yicha texnik interviewlarda tushadigan savollar to'plami
 
